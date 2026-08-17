@@ -1,4 +1,4 @@
-# [title:GUM manpage]
+# GUM Manpage
 A tool for glamorous shell scripts.
 
 ## NAME
